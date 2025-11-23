@@ -1,0 +1,5 @@
+101,John Doe,9.75
+102,Jane Smith,8.75
+103,Michael Johnson,7.9
+104,Alice Brown,10.0
+105,Bob Martin,6.8
